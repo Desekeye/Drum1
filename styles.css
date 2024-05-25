@@ -1,0 +1,16 @@
+.container{
+  background-color: black;
+}
+body{
+  background-color: antiquewhite;
+font-size: 1.5rem;
+text-align:center;
+height: 100vh;
+margin: 20px;
+padding: 20px;
+}
+.drum-pad{
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr;
+  font-weight: bold;
+ }
